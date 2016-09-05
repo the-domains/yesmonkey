@@ -1,19 +1,4 @@
-name: yesmonkey
-favicon: null
-layout_spectrum: 0.25223
 typography_spectrum: 0.09435714385472238
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,23 @@ color:
   lightness: 0.8459420434664935
   saturation: 0.6875
   rhythmicContrast: 0.20252455142326653
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25223
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: yesmonkey
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Rylander Design
+    url: rylanderdesign.com
+    type: external
+favicon: null
 purpose: []
